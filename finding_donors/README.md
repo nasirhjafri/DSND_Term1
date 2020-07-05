@@ -4,12 +4,12 @@
 
 ### Install
 
-This project requires **Python 3.x** and the following Python libraries installed:
+This project requires **Python 3.7.7** and the following Python libraries installed:
 
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
+- [NumPy](http://www.numpy.org/) **numpy==1.18.5** 
+- [Pandas](http://pandas.pydata.org) **pandas==1.0.4** 
+- [matplotlib](http://matplotlib.org/) **matplotlib==3.2.1** 
+- [scikit-learn](http://scikit-learn.org/stable/) **scikit-learn==0.23.1** 
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
